@@ -1,1 +1,5 @@
-{}
+{
+  "hello": "Hi there!",
+  "how are you?": "I'm just a bot, but I'm doing great!",
+  "who made you?": "I was created by Rana!"
+}
